@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{background-color: #E7E9EB;}
+.d_height{
+    height: 500px;
+    outline: none;
+}
+.loader{
+    height: 90px;
+    width: 90px;
+}
+.d_ft{font-family: consolas,"courier new" ,monospace !important;}
